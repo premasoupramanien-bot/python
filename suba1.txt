@@ -1,1 +1,11 @@
-hello 
+git pull
+git clone 
+git add .
+git status
+git commit -m ""
+git push
+git branch
+git checkout
+git reset
+git restore -- staged
+git configure
